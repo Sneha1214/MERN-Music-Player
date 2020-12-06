@@ -1,6 +1,7 @@
 # MERN-Music-Player
 
-A Simple Music App created using the MERN stack (MongoDB, Express JS, React JS, Node JS)
+A Simple Music App created using the MERN stack. (MongoDB, Express JS, React JS, Node JS)
+
 This app supports playing, loading ,searching and updating of songs.
 
 To run:
